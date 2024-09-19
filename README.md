@@ -21,8 +21,8 @@
 
 
 
-- 🔭 I’m currently Frontend Enginering Intern @ MyLUA Health
-- 🌱 I’m learning PWA
+- 🔭 I’m Frontend Developer
+- 🌱 I’m learning TypeScript
 - 👯 I’m looking to collaborate on Open Source Project
 - 📫 How to reach me: vitaliy.prymak@cix.csi.cuny.edu
 - 😄 Pronouns: /viˈta.li/

@@ -21,7 +21,7 @@
 
 
 
-- 🔭 I’m Frontend Developer
+- 🔭 I’m a Computer Science Student with a focus on Frontend Development
 - 🌱 I’m learning TypeScript
 - 👯 I’m looking to collaborate on Open Source Project
 - 📫 How to reach me: vitaliy.prymak@cix.csi.cuny.edu

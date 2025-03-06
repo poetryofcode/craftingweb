@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/PHP-slateblue?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/JQuery-silver?style=for-the-badge&logo=jquery&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=gulp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socket.io&logoColor=black"/>
 </div>
 
 

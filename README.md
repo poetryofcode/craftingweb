@@ -28,11 +28,3 @@
 </div>
 
 
-
-- 🔭 I’m a Computer Science Student with a focus on Frontend Development
-- 🌱 I’m currently learning GraphQL
-- 👯 I’m looking to collaborate on Open Source Project
-- 📫 How to reach me: vitaliy.prymak@cix.csi.cuny.edu
-- 😄 Pronouns: /viˈta.li/
-- ⚡ Fun fact: The world’s first computer programmer was a renowned female mathematician: Ada Lovelace, the daughter of the famous poet Lord Byron.
-
